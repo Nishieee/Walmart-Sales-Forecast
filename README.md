@@ -17,6 +17,7 @@ To run the notebook and replicate the analysis, the following Python libraries a
 - `pandas`
 - `numpy`
 - `matplotlib`
+- `plotly`
 - `seaborn`
 - `sklearn`
 - `statsmodels`
